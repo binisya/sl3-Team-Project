@@ -8,4 +8,4 @@ Features:
 2. Filter the string sound clip to eliminate unwanted noise 
 3. Use of FFT for the comparison of frequencies of the input audio signal to the frequency of the musical note 
 4. Declare if note is too high (sharp) or too low (flat) for the desired musical note  
-5. Has two modes of tuning: standard tuning and drop d tuning.
+5. Has five (5) modes of tuning: standard, drop d, double drop d, dadgad, open d
